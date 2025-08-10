@@ -1,6 +1,6 @@
 # NewLand Games
 
-Welcome to the official GitHub organization for **NewLand Games** — a community-driven project focused on developing advanced solutions for Minecraft Bedrock Edition servers since 2022.
+Welcome to the official GitHub organization for **NewLand Games** — a community-driven project focused on developing advanced solutions for Minecraft Bedrock Edition serverse  since 2021.
 
 We create, maintain, and share open-source plugins to improve gameplay, server management, and security for both players and server owners.
 
