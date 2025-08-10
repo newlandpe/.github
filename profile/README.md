@@ -8,16 +8,16 @@ We create, maintain, and share open-source plugins to improve gameplay, server m
 
 ## Featured Projects
 
-- [**CoffeeAPI**](https://github.com/newlandpe/CoffeeAPI)
+- [**CoffeeAPI**](https://github.com/newlandpe/CoffeeAPI)  
   A flexible plugin designed to change or expand Minecraft mechanics through custom commands. Enables easier integration and development of new features for PocketMine-MP servers.
 
-- [**AdvancedInventory**](https://github.com/newlandpe/AdvancedInventory)
+- [**AdvancedInventory**](https://github.com/newlandpe/AdvancedInventory)  
   Customize inventory separation based on game modes and enjoy improved gameplay experiences.
 
-- [**XAuth**](https://github.com/newlandpe/XAuth)
+- [**XAuth**](https://github.com/newlandpe/XAuth)  
   A simple, secure, and extensible authentication plugin for PocketMine-MP, modernized for 2FA integration. This is an active fork of [LuthMC's XAuth](https://github.com/LuthMC/XAuth), adapted and improved for our network.
 
-- [**BindingManager**](https://github.com/newlandpe/BindingManager)
+- [**BindingManager**](https://github.com/newlandpe/BindingManager)  
   A PocketMine-MP plugin that binds player accounts to Telegram, providing secure authentication, notification delivery, and an extensible API for integration with other plugins.
 
 ---
