@@ -8,9 +8,6 @@ We create, maintain, and share open-source plugins to improve gameplay, server m
 
 ## Featured Projects
 
-- [**CoffeeAPI**](https://github.com/newlandpe/CoffeeAPI)  
-  A flexible plugin designed to change or expand Minecraft mechanics through custom commands. Enables easier integration and development of new features for PocketMine-MP servers.
-
 - [**AdvancedInventory**](https://github.com/newlandpe/AdvancedInventory)  
   Customize inventory separation based on game modes and enjoy improved gameplay experiences.
 
