@@ -11,7 +11,7 @@ We create, maintain, and share open-source plugins to improve gameplay, server m
 - [**AdvancedInventory**](https://github.com/newlandpe/AdvancedInventory)  
   Customize inventory separation based on game modes and enjoy improved gameplay experiences.
 
-- [**XAuth**](https://github.com/newlandpe/XAuth)  
+- [**XAuth**](https://github.com/xauth-ecosystem/XAuth)  
   A simple, secure, and extensible authentication plugin for PocketMine-MP, modernized for 2FA integration. This is an active fork of [LuthMC's XAuth](https://github.com/LuthMC/XAuth), adapted and improved for our network.
 
 - [**BindingManager**](https://github.com/newlandpe/BindingManager)  
