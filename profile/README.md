@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/newlandpe/.github/blob/main/assets/banner.png" alt="NewLand Games Banner" width="900">
+</p>
+
 # NewLand Games
 
 Welcome to the official GitHub organization for **NewLand Games** — a community-driven project focused on developing advanced solutions for Minecraft Bedrock Edition serverse  since 2021.
