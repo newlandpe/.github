@@ -41,7 +41,7 @@ Feel free to explore our repositories, open issues, or submit pull requests.
 
 ## Contact Us
 
-For questions, collaboration, or support, please reach out via GitHub issues or the contacts in each repository.
+For questions, collaboration, or support, please reach out via GitHub issues, the contacts in each repository, or email us at [hello@fyennyi.pp.ua](mailto:hello@fyennyi.pp.ua).
 
 ---
 
