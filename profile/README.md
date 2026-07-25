@@ -25,10 +25,10 @@ We create, maintain, and share open-source plugins to improve gameplay, server m
 
 ## Our Mission
 
-- **Innovation:** Develop new features and mechanics for Minecraft Bedrock Edition servers
-- **Security:** Enhance player account safety through strong authentication and integrations
-- **Community:** Share knowledge and plugins to support server owners worldwide
-- **Open Source:** Encourage collaboration and transparency
+- **Innovation:** Develop new features and mechanics for Minecraft Bedrock Edition servers.
+- **Security:** Enhance player account safety through strong authentication and integrations.
+- **Community:** Share knowledge and plugins to support server owners worldwide.
+- **Open Source:** Encourage collaboration and transparency.
 
 ---
 
